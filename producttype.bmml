@@ -2,7 +2,7 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="31" y="0" w="883" h="543" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Chrome-Jranter%0Ahttp%3A//www.jrant.com</text>
+        <text>Chrome-Jranter%0Ahttp%3A//www.jranter.com</text>
         <value>0</value>
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
@@ -16,7 +16,7 @@
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="181" y="115" w="714" h="403" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="31" y="72" w="198" h="-1" measuredW="198" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u52A0%u5170%u7279ERP</text>
+        <text>%u4F73%u5170%u7279ERP</text>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="181" y="179" w="714" h="339" measuredW="135" measuredH="171" zOrder="4" locked="false" isInGroup="-1">
