@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1445" measuredH="543" mockupW="1414" mockupH="543">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="31" y="0" w="883" h="543" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chrome-Jranter%0Ahttp%3A//www.jrant.com</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="31" y="115" w="150" h="403" measuredW="150" measuredH="267" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>11</selectedIndex>
+        <text>%u57FA%u7840%u4FE1%u606F%0A-%20%u5BA2%u6237%u4FE1%u606F%0A-%20%u989C%u8272%u4FE1%u606F%0A-%20%u6750%u8D28%u4FE1%u606F%0A-%20%u8D27%u54C1%u7C7B%u578B%0A-%20%u8D27%u54C1%u4FE1%u606F%0A%u8BA2%u5355%u7BA1%u7406%0A-%20%u8BA2%u505A%u8BA2%u5355%0A-%20%u91C7%u8D2D%u8BA2%u5355%0A%u5E93%u5B58%u7BA1%u7406%0A%u9500%u552E%u7BA1%u7406%0A-%20%u9500%u552E%u8BB0%u5F55%0A-%20%u9500%u552E%u62A5%u8868%0A%u7CFB%u7EDF%u7BA1%u7406</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="181" y="115" w="714" h="403" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="31" y="72" w="198" h="-1" measuredW="198" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u4F73%u5170%u7279ERP</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="181" y="179" w="714" h="339" measuredW="492" measuredH="171" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u8BA2%u5355%u53F7%20%5E%2C%u4E0B%u5355%u65E5%u671F%2C%u8D27%u54C1%u7C7B%u578B%2C%u8D27%u54C1%u540D%u79F0%2C%u9500%u552E%u6570%u91CF%2C%u91D1%u989D%2C%u8D23%u4EFB%u4EBA%0Ac01%2C%202013-6-7%2C%u624B%u5305%2C%u7ECF%u5178%u5973%u6B3E%u5305%u5305%2C2%2C65%2C%u5F20%u4E09%0Ac02%2C2013-6-8%2C%u76AE%u5E26%2C%u5546%u52A1%u7537%u58EB%u76AE%u5E26%2C5%2C999%2C%u674E%u56DB%0Ac03%2C%202013-6-8%2C%u914D%u9970%2C%u9CC4%u9C7C%u76AE%u94A5%u5319%u6302%u4EF6%2C6%2C6666%2C%u738B%u4E94%0Ac04%2C%202013-6-8%2C%u630E%u5305%2C%u97E9%u7248%u5973%u58EB%u630E%u80CC%u4E24%u7528%u5305%2C7%2C33333%2C%u97E9%u6885%u6885%0Ac05%2C%202013-6-8%2C%u630E%u5305%2COL%u5546%u52A1%u5305%2C8%2C8888%2C%u674E%u96F7</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="181" y="115" w="134" h="-1" measuredW="66" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u8BA2%u5355%u53F7%uFF1A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="315" y="116" w="116" h="-1" measuredW="79" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u5BA2%u6237%u540D%u79F0%uFF1A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::MenuBar" x="179" y="153" w="-1" h="-1" measuredW="88" measuredH="29" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <text>%u67E5%u770B</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="431" y="116" w="-1" h="-1" measuredW="48" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u641C%u7D22</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Tooltip" x="927" y="232" w="-1" h="-1" measuredW="518" measuredH="232" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u95EE%u9898%uFF1A%u9500%u552E%u8BB0%u5F55%u548C%u51FA%u5E93%u5355%u636E%u7684%u5173%u7CFB%u3002%u9500%u552E%u51FA%u5E93%u518D%u5BA1%u6279%u540E%u81EA%u52A8%u8F6C%u6362%u6210%u9500%u552E%u8BB0%u5F55%uFF1F%u5982%u679C%u662F%uFF0C%u5BF9%u4E8E%u9500%u552E%u8BB0%u5F55%u7684%u7684%u7EDF%u8BA1%u53EF%u4E0D%u5355%u72EC%u8BBE%u6A21%u5757%uFF0C%u800C%u76F4%u63A5%u7EDF%u8BA1%u5DF2%u5B8C%u7ED3%u7684%u9500%u552E%u51FA%u5E93%u5355%u3002</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

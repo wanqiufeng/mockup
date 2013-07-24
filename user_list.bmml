@@ -2,15 +2,15 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="31" y="0" w="883" h="543" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Chrome-Jranter%0Ahttp%3A//www.jranter.com</text>
+        <text>Chrome-Jranter%0Ahttp%3A//www.jrantercom</text>
         <value>0</value>
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="31" y="115" w="150" h="403" measuredW="150" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="31" y="115" w="150" h="403" measuredW="150" measuredH="294" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <selectedIndex>4</selectedIndex>
-        <text>%u57FA%u7840%u4FE1%u606F%0A-%20%u5BA2%u6237%u4FE1%u606F%0A-%20%u989C%u8272%u4FE1%u606F%0A-%20%u6750%u8D28%u4FE1%u606F%0A-%20%u4EA7%u54C1%u7C7B%u578B%0A-%20%u4EA7%u54C1%u4FE1%u606F%0A%u8BA2%u5355%u7BA1%u7406%0A-%20%u8BA2%u505A%u8BA2%u5355%0A-%20%u91C7%u8D2D%u8BA2%u5355%0A%u5E93%u5B58%u7BA1%u7406%0A%u9500%u552E%u7BA1%u7406%0A%u7CFB%u7EDF%u7BA1%u7406</text>
+        <selectedIndex>12</selectedIndex>
+        <text>%u57FA%u7840%u4FE1%u606F%0A-%20%u5BA2%u6237%u4FE1%u606F%0A-%20%u989C%u8272%u4FE1%u606F%0A-%20%u6750%u8D28%u4FE1%u606F%0A-%20%u8D27%u54C1%u7C7B%u578B%0A-%20%u8D27%u54C1%u4FE1%u606F%0A%u8BA2%u5355%u7BA1%u7406%0A-%20%u8BA2%u505A%u8BA2%u5355%0A-%20%u91C7%u8D2D%u8BA2%u5355%0A%u5E93%u5B58%u7BA1%u7406%0A%u9500%u552E%u7BA1%u7406%0A%u7CFB%u7EDF%u7BA1%u7406%0A-%20%u7528%u6237%u4FE1%u606F%0A-%20%u89D2%u8272%u4FE1%u606F%0A-%20%u83DC%u5355%u6743%u9650</text>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="181" y="115" w="714" h="403" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
@@ -19,19 +19,19 @@
         <text>%u4F73%u5170%u7279ERP</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="181" y="179" w="714" h="339" measuredW="135" measuredH="171" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="181" y="179" w="714" h="339" measuredW="360" measuredH="51" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u7F16%u7801%20%5E%2C%20%u540D%u79F0%20%5E%0Ac01%2C%20%u5355%u80A9/%u624B%u63D0%u5305%0Ac02%2C%20%u624B%u62FF/%u624B%u6293%u5305%0Ac03%2C%20%u94B1%u5305/%u94B1%u5939%0Ac04%2C%20%u76AE%u5E26%0Ac05%2C%20%u914D%u9970</text>
+        <text>%u7528%u6237%u540D%20%5E%2C%20%u59D3%u540D%20%5Ev%2C%u6027%u522B%2C%u7535%u8BDD%2CEMAIL%0Ac01%2C%20%u8D75%u6668%2C%u7537%2C43434%2Czhaocheng@jranter.com</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="181" y="115" w="134" h="-1" measuredW="53" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="181" y="115" w="134" h="-1" measuredW="66" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u7F16%u7801%uFF1A</text>
+        <text>%u7528%u6237%u540D%uFF1A</text>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="315" y="116" w="116" h="-1" measuredW="53" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u540D%u79F0%uFF1A</text>
+        <text>%u59D3%u540D%uFF1A</text>
       </controlProperties>
     </control>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::MenuBar" x="179" y="153" w="-1" h="-1" measuredW="150" measuredH="29" zOrder="7" locked="false" isInGroup="-1">
