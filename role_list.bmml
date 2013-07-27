@@ -21,7 +21,7 @@
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="181" y="179" w="714" h="339" measuredW="337" measuredH="111" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u89D2%u8272%u540D%5E%2C%20%u540D%u79F0%20%5Ev%2C%u63CF%u8FF0%0AROLE_ADMIN%2C%20%u7BA1%u7406%u5458%2C%u7CFB%u7EDF%u7BA1%u7406%u6743%u9650%0AROLE_BIZMAN%2C%u4E1A%u52A1%u8FDC%2C%u9500%u552E%u53CA%u51FA%u5E93%u5355%u636E%u5F55%u5165%u6743%u9650%0AROLE_MANAGER%2C%u4E1A%u52A1%u7ECF%u7406%2C%u4E1A%u52A1%u5BA1%u6279%u6743%u9650</text>
+        <text>%u89D2%u8272%u540D%5E%2C%20%u540D%u79F0%20%5Ev%2C%u63CF%u8FF0%0AROLE_ADMIN%2C%20%u7BA1%u7406%u5458%2C%u7CFB%u7EDF%u7BA1%u7406%u6743%u9650%0AROLE_BIZMAN%2C%u4E1A%u52A1%u5458%2C%u9500%u552E%u53CA%u51FA%u5E93%u5355%u636E%u5F55%u5165%u6743%u9650%0AROLE_MANAGER%2C%u4E1A%u52A1%u7ECF%u7406%2C%u4E1A%u52A1%u5BA1%u6279%u6743%u9650</text>
       </controlProperties>
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="181" y="115" w="134" h="-1" measuredW="66" measuredH="27" zOrder="5" locked="false" isInGroup="-1">

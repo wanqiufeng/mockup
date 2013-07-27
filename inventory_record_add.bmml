@@ -193,7 +193,7 @@
         <text>%u8BA2%u5355%u6765%u6E90%uFF1A%u7EBF%u4E0A/%u7EBF%u4E0B</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Tooltip" x="925" y="189" w="-1" h="-1" measuredW="388" measuredH="326" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Tooltip" x="925" y="189" w="388" h="100" measuredW="388" measuredH="60" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u8FD9%u91CC%u5C06%u9500%u552E%u51FA%u5E93%u548C%u5176%u5B83%u51FA%u5E93%u653E%u5728%u540C%u4E00%u4E2A%u6A21%u5757%uFF0C%0A%u56E0%u4E3A%u672C%u8D28%u4E0A%uFF0C%u4ED6%u4EEC%u90FD%u662F%u51FA%u5E93%uFF0C%u4E14%u9500%u552E%u51FA%u5E93%u7684%u4FE1%u606F%u8981%u4E30%u5BCC%u4E00%u70B9%0A%u5176%u5B83%u51FA%u5E93%u5B8C%u5168%u53EF%u4EE5%u7528%u9500%u552E%u51FA%u5E93%u7684%u6A21%u7248%uFF0C%u5982%u679C%u5176%u5B83%u51FA%u5E93%u4E0D%u6D89%u53CA%0A%u91D1%u94B1%uFF0C%u90A3%u5B8C%u5168%u53EF%u4EE5%u4E0D%u586B%uFF0C%u5177%u4F53%u539F%u56E0%u53EF%u5728%u5907%u6CE8%u4E2D%u8BF4%u660E</text>
       </controlProperties>
